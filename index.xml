@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My Blog</title>
+    <link>https://kongminghanks.github.io/</link>
+    <description>Recent content on My Blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 22 May 2026 21:34:51 +0800</lastBuildDate>
+    <atom:link href="https://kongminghanks.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Third Blog</title>
+      <link>https://kongminghanks.github.io/posts/my-third-blog/</link>
+      <pubDate>Fri, 22 May 2026 21:34:51 +0800</pubDate>
+      <guid>https://kongminghanks.github.io/posts/my-third-blog/</guid>
+      <description>&lt;h3 id=&#34;old-school&#34;&gt;old-school&lt;/h3&gt;
+&lt;p&gt;这个网页的制作因为部分原因并未使用github actions，采用本地老派部署，因此多写了一些方便更新的脚本。&lt;/p&gt;
+&lt;p&gt;经过了大概七八h的部署，挂于github.com下的二级网站https://kongminghanks.github.io/正式上线了。
+以后的内容可能包括技术博客、艺术剪接或者人生哲思。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Second Blog</title>
+      <link>https://kongminghanks.github.io/posts/my-second-blog/</link>
+      <pubDate>Fri, 22 May 2026 14:53:24 +0800</pubDate>
+      <guid>https://kongminghanks.github.io/posts/my-second-blog/</guid>
+      <description>&lt;h3 id=&#34;渐入佳境&#34;&gt;渐入佳境&lt;/h3&gt;
+&lt;p&gt;伟大的圣人兰彻欧德斯曾经说过：“学习是为了完善人生，而非享乐人生；追求卓越，成功就会出其不意得找上门来。”&lt;/p&gt;
+&lt;p&gt;欢迎访问&lt;a href=&#34;https://github.com/kongminghanks&#34;&gt;我的个人github主页&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Blog</title>
+      <link>https://kongminghanks.github.io/posts/hello/</link>
+      <pubDate>Thu, 21 May 2026 22:45:00 +0800</pubDate>
+      <guid>https://kongminghanks.github.io/posts/hello/</guid>
+      <description>&lt;h1 id=&#34;欢迎来到我的新博客&#34;&gt;欢迎来到我的新博客！&lt;/h1&gt;
+&lt;p&gt;这是我人生中用 &lt;strong&gt;Hugo&lt;/strong&gt; + &lt;strong&gt;GitHub Pages&lt;/strong&gt; 搭建的第一个个人网站。&lt;/p&gt;
+&lt;h3 id=&#34;为什么想写博客&#34;&gt;为什么想写博客？&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;记录学到的技术和知识。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“种一棵树最好的时间是十年前，其次是现在。”&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;目前本地测试非常成功，马上就要准备上线发布！&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
